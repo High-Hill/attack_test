@@ -1,3 +1,3 @@
 #!/bin/sh
 
-wget https://www.firefly.kutc.kansai-u.ac.jp
+wget http://www.kansai-u.ac.jp
